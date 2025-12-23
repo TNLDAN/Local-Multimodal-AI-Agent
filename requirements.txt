@@ -1,0 +1,12 @@
+chromadb
+sentence-transformers
+torch
+torchvision
+ftfy
+regex
+tqdm
+Pillow
+shutil
+argparse
+pypdf
+streamlit
