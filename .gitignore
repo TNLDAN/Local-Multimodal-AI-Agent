@@ -10,8 +10,6 @@ env/
 
 # 忽略本地数据文件夹 (根据你的项目需求，通常不上传大量数据)
 data/chromadb/
-data/papers/
-data/images/
 # 如果你想保留文件夹结构但忽略内容，可以在子文件夹里放一个 .gitkeep
 
 # 忽略 Mac 系统文件
