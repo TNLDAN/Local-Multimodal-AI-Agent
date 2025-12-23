@@ -44,7 +44,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone <您的仓库链接>
+git clone https://github.com/TNLDAN/Local-Multimodal-AI-Agent.git
 cd LocalAIAgent
 ```
 
